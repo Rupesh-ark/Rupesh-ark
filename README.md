@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hey! I'm a Master's student in Software Engineering at Heriot-Watt University who just can’t stop building things for fun. If it sounds cool, weird, or just a little bit chaotic, I probably want to make it.  
 
-🚀 Big fan of **F1** (team radio drama = peak cinema 🎧🏎️)  
-📚 Obsessed with **fantasy fiction** (yes, I’ve thought about building my own worldbuilding tool)  
+🚀 Big fan of **F1** 
+📚 Obsessed with **fantasy fiction** 
 🛠️ Constantly tinkering with little projects around the things I love  
 
 Learning? 
