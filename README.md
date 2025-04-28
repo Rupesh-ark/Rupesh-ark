@@ -5,11 +5,11 @@ Hey! I'm a Master's student in Software Engineering at Heriot-Watt University wh
 📚 Obsessed with **fantasy fiction** (yes, I’ve thought about building my own worldbuilding tool)  
 🛠️ Constantly tinkering with little projects around the things I love  
 
-Learning? ✅  
-Breaking things? ✅  
-Fixing them again? …hopefully 😅  
+Learning? 
+Breaking things? 
+Fixing them again? …hopefully 
 
-Let’s make some cool stuff! ✨
+Let’s make some cool stuff! 
 
 ---
 
