@@ -43,8 +43,14 @@ Let’s make some cool stuff!
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 Achievements & Certifications:
+- 🎖️ **Microservice Architectures** – Coursera (Issued Jan 2024) [Credential ID: VSJWQFSXG3KW]
+- 🎖️ **SQL (Advanced) Certificate** – HackerRank (Issued Jan 2024) [Credential ID: 46ef42734ce9]
+- 🎖️ **Building HTTP APIs with Spring** – Coursera (Issued Dec 2023) [Credential ID: GSR9V996RVN4]
+- 🎖️ **SQL (Intermediate) Certificate** – HackerRank (Issued Dec 2023) [Credential ID: 1a8054aec384]
+- 🎖️ **Learning How to Learn** – Coursera (Issued Nov 2020)
+- 🎖️ **C Intermediate** – HackerRank (Issued Sep 2020)
+
 
 ---
 
