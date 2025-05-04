@@ -1,10 +1,3 @@
-
-<img
-  src="https://i.postimg.cc/jjMR2Yh9/649e2a5d-5228-49e3-a5bf-35793652d3a5.png"
-  alt="F1Fantasy"
-  style="width:700px; height:auto;"
-/>
-
 # About Me:
 Hey! I'm a Master's student in Software Engineering at Heriot-Watt University who just can’t stop building things for fun. If it sounds cool, weird, or just a little bit chaotic, I probably want to make it.  
 
@@ -62,7 +55,9 @@ Let’s make some cool stuff!
 
 
 ---
+<img
+  src="https://i.postimg.cc/jjMR2Yh9/649e2a5d-5228-49e3-a5bf-35793652d3a5.png"
+  alt="F1Fantasy"
+  style="width:700px; height:auto;"
+/>
 
-[![](https://visitcount.itsvg.in/api?id=Rupesh-ark&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
