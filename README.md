@@ -58,6 +58,5 @@ Let’s make some cool stuff!
 <img
   src="https://i.postimg.cc/jjMR2Yh9/649e2a5d-5228-49e3-a5bf-35793652d3a5.png"
   alt="F1Fantasy"
-  style="width:700px; height:auto;"
 />
 
