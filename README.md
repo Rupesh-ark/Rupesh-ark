@@ -5,11 +5,6 @@ Big fan of **F1**
 Obsessed with **fantasy fiction** 
 Constantly tinkering with little projects around the things I love  
 
-Learning?<br>
-Breaking things? <br>
-Fixing them again? …hopefully <br>
-
-Let’s make some cool stuff! 
 
 ---
 
