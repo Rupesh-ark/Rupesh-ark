@@ -4,14 +4,6 @@ I’m a Master’s student in Software Engineering at Heriot-Watt University wit
 
 Outside of software, I’m a big fan of Formula 1 and fantasy fiction, and I often build small side projects inspired by the things I enjoy.
 
----
-
-## Connect with Me
-
-LinkedIn  
-https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/
-
----
 
 ## Tech Stack
 
