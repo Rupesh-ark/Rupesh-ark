@@ -1,6 +1,6 @@
 # About Me
 
-I’m a Master’s student in Software Engineering at Heriot-Watt University with a strong interest in building systems and experimenting beyond coursework. I enjoy working on projects that are technically interesting, unconventional, or slightly chaotic—especially when they let me explore new tools, languages, and design approaches.
+I’m a Master’s student in Software Engineering at Heriot-Watt University with a strong interest in building systems and experimenting beyond coursework. I enjoy working on projects that are technically interesting, unconventional, or slightly chaotic especially when they let me explore new tools, languages, and design approaches.
 
 Outside of software, I’m a big fan of Formula 1 and fantasy fiction, and I often build small side projects inspired by the things I enjoy.
 
@@ -58,9 +58,3 @@ https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/
 - Learning How to Learn – Coursera (Issued Nov 2020)  
 - C Intermediate – HackerRank (Issued Sep 2020)  
 
----
-
-<img
-  src="https://i.postimg.cc/jjMR2Yh9/649e2a5d-5228-49e3-a5bf-35793652d3a5.png"
-  alt="F1 Fantasy"
-/>
