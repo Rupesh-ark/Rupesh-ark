@@ -1,4 +1,4 @@
-# Hey, I'm Rupesh 👋
+# Hey, I'm Rupesh 
 
 **MSc Software Engineering @ Heriot-Watt University · Edinburgh**
 
@@ -10,7 +10,7 @@ When I'm not coding, I'm watching **Formula 1** or lost in a fantasy novel. Both
 
 ---
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,62 +35,48 @@ When I'm not coding, I'm watching **Formula 1** or lost in a fantasy novel. Both
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏰 [Empires of the Skies](https://github.com/Rupesh-ark/EmpiresOfTheSkies)
+### [Empires of the Skies](https://github.com/Rupesh-ark/EmpiresOfTheSkies)
 > Full-stack digital board game — multiplayer strategy with aerial battles, resource management, political elections, and real-time state sync. 96 commits and counting.
 
 `TypeScript` `React` `boardgame.io` `Node.js` `Vite` `MUI` — [Play it live](https://empires-of-the-skies-tan.vercel.app)
 
-### 🧱 [CppGames](https://github.com/Rupesh-ark/CppGames)
+### [CppGames](https://github.com/Rupesh-ark/CppGames)
 > Pure C++ game implementations with minimal abstractions. Currently: Tetris. Philosophy: if the standard library has it, don't reinvent it — but don't hide behind frameworks either.
 
 `C++`
 
-### 🎵 [Rhythm Game](https://github.com/Jean-de-la-tonneliere/CW2-rythmnGame)
+### [Rhythm Game](https://github.com/Jean-de-la-tonneliere/CW2-rythmnGame)
 > Team-built Unity rhythm game with a custom Conductor System that syncs jumps, dashes, attacks, and hazards to each track's BPM. Beat-based input validation for precise gameplay.
 
 `C#` `Unity`
 
-### ☕ [Coffee Shop Simulation](https://github.com/Saverio976/CoffeeShop)
+### [Coffee Shop Simulation](https://github.com/Saverio976/CoffeeShop)
 > MVC simulation in Java — customers, orders, menus, live UI updates via Observer pattern, and Singleton-based file logging. Multithreaded for realistic throughput.
 
 `Java` `JavaFX` `Multithreading` `Design Patterns`
 
-### 📦 [Stock Management System](https://github.com/Rupesh-ark/StockManagementSystem)
+### [Stock Management System](https://github.com/Rupesh-ark/StockManagementSystem)
 > WinForms desktop app for managing static inventory. Clean and functional.
 
 `C#` `WinForms`
 
-### 🎮 [Unfinished Unity Games](https://github.com/Rupesh-ark/UnfinshedUnityGames)
+### [Unfinished Unity Games](https://github.com/Rupesh-ark/UnfinshedUnityGames)
 > A graveyard of game prototypes and proof-of-concepts. Legend has it, one day I'll remake and finish these.
 
 `C#` `Unity`
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Bizom (Mobisy Technologies)** — Bengaluru, India *(Aug 2021 – Jul 2024)*
 
 Wore a few hats across ~3 years: Software Engineer Intern → Software Engineer → Data Scientist → Engineer & Catalyst (CEO's Office). Shipped BNPL integrations, built churn prediction tools, owned the suggested-order feature (+12% order accuracy), and ran weekly company-wide business reviews. Also broke and rebuilt a fair amount of legacy code along the way.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupesh-ark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-ark&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupesh-ark&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 Certifications
+## Certifications
 
 | Certificate | Platform | Date |
 |---|---|---|
@@ -103,22 +89,18 @@ Wore a few hats across ~3 years: Software Engineer Intern → Software Engineer 
 
 ---
 
-## 🎓 Education
+## Education
 
 **Heriot-Watt University** — MSc Software Engineering *(Expected Jun 2026)*
+
 **Visvesvaraya Technological University** — B.E. Information Science *(Jan 2022)*
+
 **Backstage Pass Institute of Gaming** — Diploma in Game Development *(Jan 2021)*
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0_Genos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyrupesh00@gmail.com)
-
----
-
-<p align="center">
-  <i>"Any sufficiently advanced side project is indistinguishable from procrastination."</i>
-</p>
