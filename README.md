@@ -1,7 +1,6 @@
 # About Me
 
 I’m a Master’s student in Software Engineering at Heriot-Watt University with a strong interest in building systems and experimenting beyond coursework. I enjoy working on projects that are technically interesting, unconventional, or slightly chaotic especially when they let me explore new tools, languages, and design approaches.
-
 Outside of software, I’m a big fan of Formula 1 and fantasy fiction, and I often build small side projects inspired by the things I enjoy.
 ---
 
