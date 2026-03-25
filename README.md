@@ -38,7 +38,7 @@ When I'm not coding, I'm watching **Formula 1** or lost in a fantasy novel. Both
 ## Featured Projects
 
 ### [Empires of the Skies](https://github.com/Rupesh-ark/EmpiresOfTheSkies)
-> Full-stack digital board game — multiplayer strategy with aerial battles, resource management, political elections, and real-time state sync. 96 commits and counting.
+> Full-stack digital board game — multiplayer strategy with aerial battles, resource management, political elections, and real-time state sync.
 
 `TypeScript` `React` `boardgame.io` `Node.js` `Vite` `MUI` — [Play it live](https://empires-of-the-skies-tan.vercel.app)
 
