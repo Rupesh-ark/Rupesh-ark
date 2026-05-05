@@ -2,11 +2,11 @@
 
 **MSc Software Engineering @ Heriot-Watt University · Edinburgh**
 
-I build things that are technically interesting, occasionally unconventional, and sometimes slightly chaotic — usually on purpose. Whether it's digitising a strategy board game from scratch, writing Tetris in pure C++, or syncing rhythm-game mechanics to BPM, I like projects that make me learn something new and break something at least once along the way.
+I build things that are technically interesting, occasionally unconventional, and sometimes slightly chaotic—usually on purpose. I love taking on projects that force me to learn something entirely new, even if it means breaking things a few times along the way.
 
-Previously shipped production software at **Bizom (Mobisy Technologies)** — from BNPL integrations and churn prediction models to suggested-order features that moved real metrics. Now back in school, building weirder stuff for fun.
+Previously, I spent a few years shipping production software at scale, but right now I’m back in school finishing my master's and focusing on building weirder, highly interactive stuff for fun.
 
-When I'm not coding, I'm watching **Formula 1** or lost in a fantasy novel. Both hobbies have a suspicious habit of leaking into my side projects.
+When I'm not coding, I'm usually watching Formula 1 or lost in a fantasy novel.
 
 ---
 
