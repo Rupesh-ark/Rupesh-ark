@@ -43,7 +43,7 @@ When I'm not coding, I'm usually watching Formula 1 or lost in a fantasy novel.
 `TypeScript` `React` `boardgame.io` `Node.js` `Vite` `MUI` — [Play it live](https://empires-of-the-skies-tan.vercel.app)
 
 ### [CppGames](https://github.com/Rupesh-ark/CppGames)
-> Pure C++ game implementations with minimal abstractions. Currently: Tetris. Philosophy: if the standard library has it, don't reinvent it — but don't hide behind frameworks either.
+> Pure C++ game implementation.
 
 `C++`
 
