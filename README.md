@@ -12,7 +12,7 @@
 **MSc Software Engineering · Heriot-Watt University · Edinburgh**
 
 *I build things that are technically interesting, occasionally unconventional,*
-*and sometimes slightly chaotic — usually on purpose.*
+*and sometimes slightly chaotic usually on purpose.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0_Genos)
@@ -22,9 +22,7 @@
 
 <br>
 
-Previously spent a few years shipping production software at scale. Right now: back in school, finishing a master's, building weirder and more highly interactive things for fun. I love projects that force me to learn something entirely new, even if it means breaking everything first.
-
-Off-screen: Formula 1 and fantasy novels, in some order.
+Hey, I am Rupesh, a generalist enginneer have done a bit of this and bit of that. On a journey to pick more skills and make existing skills more robust and grounded. So many things are gonna change in the next decade or two. I wanna be the part of the change :) 
 
 <br>
 
