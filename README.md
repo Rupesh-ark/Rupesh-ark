@@ -1,106 +1,167 @@
-# Hey, I'm Rupesh 
+<div align="center">
 
-**MSc Software Engineering @ Heriot-Watt University · Edinburgh**
+```
+██████╗ ██╗   ██╗██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██║  ██║
+██████╔╝██║   ██║██████╔╝█████╗  ███████╗███████║
+██╔══██╗██║   ██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
+██║  ██║╚██████╔╝██║     ███████╗███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-I build things that are technically interesting, occasionally unconventional, and sometimes slightly chaotic—usually on purpose. I love taking on projects that force me to learn something entirely new, even if it means breaking things a few times along the way.
+**MSc Software Engineering · Heriot-Watt University · Edinburgh**
 
-Previously, I spent a few years shipping production software at scale, but right now I’m back in school finishing my master's and focusing on building weirder, highly interactive stuff for fun.
+*I build things that are technically interesting, occasionally unconventional,*
+*and sometimes slightly chaotic — usually on purpose.*
 
-When I'm not coding, I'm usually watching Formula 1 or lost in a fantasy novel.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0_Genos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyrupesh00@gmail.com)
 
----
+</div>
 
-## Tech & Tools
+<br>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Previously spent a few years shipping production software at scale. Right now: back in school, finishing a master's, building weirder and more highly interactive things for fun. I love projects that force me to learn something entirely new, even if it means breaking everything first.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Off-screen: Formula 1 and fantasy novels, in some order.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
 
 ---
 
-## Featured Projects
+```
+[ LANGUAGES ]
+```
 
-### [Empires of the Skies](https://github.com/Rupesh-ark/EmpiresOfTheSkies)
-> Full-stack digital board game — multiplayer strategy with aerial battles, resource management, political elections, and real-time state sync.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-`TypeScript` `React` `boardgame.io` `Node.js` `Vite` `MUI` — [Play it live](https://empires-of-the-skies-tan.vercel.app)
+```
+[ FRAMEWORKS & ENGINES ]
+```
 
-### [CppGames](https://github.com/Rupesh-ark/CppGames)
-> Pure C++ game implementation.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+```
+[ TOOLS & PLATFORMS ]
+```
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
+
+---
+
+## PROJECTS
+
+<br>
+
+**[EMPIRES OF THE SKIES](https://github.com/Rupesh-ark/EmpiresOfTheSkies)**
+`TypeScript · React · boardgame.io · Node.js · Vite · MUI`
+
+Full-stack digital board game. Multiplayer strategy with aerial battles, resource management, political elections, and real-time state sync. Built to be played, not just shown off.
+
+> **[— Play it live](https://empires-of-the-skies-tan.vercel.app)**
+
+<br>
+
+**[RHYTHM GAME](https://github.com/Jean-de-la-tonneliere/CW2-rythmnGame)**
+`C# · Unity`
+
+Team-built Unity rhythm game with a custom Conductor System that syncs jumps, dashes, attacks, and hazards to each track's BPM. Beat-based input validation — if it's not on beat, it doesn't count.
+
+<br>
+
+**[COFFEE SHOP SIMULATION](https://github.com/Saverio976/CoffeeShop)**
+`Java · JavaFX · Multithreading · Design Patterns`
+
+MVC simulation with customers, orders, menus, and live UI updates via the Observer pattern. Singleton-based file logging. Multithreaded for realistic throughput. More interesting than it sounds.
+
+<br>
+
+**[CPPGAMES](https://github.com/Rupesh-ark/CppGames)**
 `C++`
 
-### [Rhythm Game](https://github.com/Jean-de-la-tonneliere/CW2-rythmnGame)
-> Team-built Unity rhythm game with a custom Conductor System that syncs jumps, dashes, attacks, and hazards to each track's BPM. Beat-based input validation for precise gameplay.
+Games in pure C++. No engine, no framework. Just the language doing the heavy lifting.
 
-`C#` `Unity`
+<br>
 
-### [Coffee Shop Simulation](https://github.com/Saverio976/CoffeeShop)
-> MVC simulation in Java — customers, orders, menus, live UI updates via Observer pattern, and Singleton-based file logging. Multithreaded for realistic throughput.
+**[STOCK MANAGEMENT SYSTEM](https://github.com/Rupesh-ark/StockManagementSystem)**
+`C# · WinForms`
 
-`Java` `JavaFX` `Multithreading` `Design Patterns`
+WinForms desktop app for static inventory management. Straightforward, clean, functional — does exactly what it says.
 
-### [Stock Management System](https://github.com/Rupesh-ark/StockManagementSystem)
-> WinForms desktop app for managing static inventory. Clean and functional.
+<br>
 
-`C#` `WinForms`
+**[UNFINISHED UNITY GAMES](https://github.com/Rupesh-ark/UnfinshedUnityGames)**
+`C# · Unity`
 
-### [Unfinished Unity Games](https://github.com/Rupesh-ark/UnfinshedUnityGames)
-> A graveyard of game prototypes and proof-of-concepts. Legend has it, one day I'll remake and finish these.
+A graveyard of prototypes and proof-of-concepts. Each one taught me something. Legend has it one day I'll go back and finish them.
 
-`C#` `Unity`
+<br>
 
 ---
 
-## Experience
+## EXPERIENCE
 
-**Bizom (Mobisy Technologies)** — Bengaluru, India *(Aug 2021 – Jul 2024)*
+**BIZOM · Mobisy Technologies** — Bengaluru, India `Aug 2021 – Jul 2024`
 
-Wore a few hats across ~3 years: Software Engineer Intern → Software Engineer → Data Scientist → Engineer & Catalyst (CEO's Office). Shipped BNPL integrations, built churn prediction tools, owned the suggested-order feature (+12% order accuracy), and ran weekly company-wide business reviews. Also broke and rebuilt a fair amount of legacy code along the way.
+Three years. Four roles.
 
+```
+Software Engineer Intern  ->  Software Engineer  ->  Data Scientist  ->  Engineer & Catalyst (CEO's Office)
+```
 
-## Certifications
+Shipped BNPL integrations. Built churn prediction tooling. Owned the suggested-order feature end-to-end — it landed a **+12% improvement in order accuracy**. Ran weekly company-wide business reviews out of the CEO's office. Also broke and rebuilt a fair amount of legacy code along the way.
 
-| Certificate | Platform | Date |
-|---|---|---|
-| Microservice Architectures | Coursera | Jan 2024 |
-| SQL (Advanced) | HackerRank | Jan 2024 |
-| Building HTTP APIs with Spring | Coursera | Dec 2023 |
-| SQL (Intermediate) | HackerRank | Dec 2023 |
-| Learning How to Learn | Coursera | Nov 2020 |
-| C (Intermediate) | HackerRank | Sep 2020 |
+<br>
 
 ---
 
-## Education
+## EDUCATION
 
-**Heriot-Watt University** — MSc Software Engineering *(Expected Jun 2026)*
+```
+Heriot-Watt University          MSc Software Engineering          Expected Jun 2026
+Visvesvaraya Technological      B.E. Information Science          Jan 2022
+Backstage Pass Institute        Diploma in Game Development       Jan 2021
+```
 
-**Visvesvaraya Technological University** — B.E. Information Science *(Jan 2022)*
-
-**Backstage Pass Institute of Gaming** — Diploma in Game Development *(Jan 2021)*
+<br>
 
 ---
 
-## Let's Connect
+## CERTIFICATIONS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0_Genos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyrupesh00@gmail.com)
+```
+Microservice Architectures      Coursera       Jan 2024
+SQL (Advanced)                  HackerRank     Jan 2024
+Building HTTP APIs with Spring  Coursera       Dec 2023
+SQL (Intermediate)              HackerRank     Dec 2023
+Learning How to Learn           Coursera       Nov 2020
+C (Intermediate)                HackerRank     Sep 2020
+```
+
+<br>
+
+---
+
+<div align="center">
+
+*always building · sometimes finishing*
+
+</div>
