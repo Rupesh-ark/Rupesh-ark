@@ -14,7 +14,7 @@
 *I build things that are technically interesting, occasionally unconventional,*
 *and sometimes slightly chaotic usually on purpose.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-pandey-2603ba1b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssh-rupesh/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0_Genos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeyrupesh00@gmail.com)
 
@@ -81,7 +81,7 @@ Full-stack digital board game. Multiplayer strategy with aerial battles, resourc
 **[RHYTHM GAME](https://github.com/Jean-de-la-tonneliere/CW2-rythmnGame)**
 `C# · Unity`
 
-Team-built Unity rhythm game with a custom Conductor System that syncs jumps, dashes, attacks, and hazards to each track's BPM. Beat-based input validation — if it's not on beat, it doesn't count.
+Team-built Unity rhythm game with a custom Conductor System that syncs jumps, dashes, attacks, and hazards to each track's BPM. Beat-based input validation.
 
 <br>
 
@@ -95,14 +95,14 @@ MVC simulation with customers, orders, menus, and live UI updates via the Observ
 **[CPPGAMES](https://github.com/Rupesh-ark/CppGames)**
 `C++`
 
-Games in pure C++. No engine, no framework. Just the language doing the heavy lifting.
+Games in pure C++
 
 <br>
 
 **[STOCK MANAGEMENT SYSTEM](https://github.com/Rupesh-ark/StockManagementSystem)**
 `C# · WinForms`
 
-WinForms desktop app for static inventory management. Straightforward, clean, functional — does exactly what it says.
+WinForms desktop app for static inventory management. Straightforward, clean, functional.
 
 <br>
 
@@ -125,7 +125,7 @@ Three years. Four roles.
 Software Engineer Intern  ->  Software Engineer  ->  Data Scientist  ->  Engineer & Catalyst (CEO's Office)
 ```
 
-Shipped BNPL integrations. Built churn prediction tooling. Owned the suggested-order feature end-to-end — it landed a **+12% improvement in order accuracy**. Ran weekly company-wide business reviews out of the CEO's office. Also broke and rebuilt a fair amount of legacy code along the way.
+Shipped BNPL integrations. Built churn prediction tooling. Co-Owned the suggested-order feature end-to-end. Ran weekly company-wide business reviews out of the CEO's office. Also broke and rebuilt a fair amount of legacy code along the way.
 
 <br>
 
