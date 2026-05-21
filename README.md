@@ -157,9 +157,3 @@ C (Intermediate)                HackerRank     Sep 2020
 <br>
 
 ---
-
-<div align="center">
-
-*always building · sometimes finishing*
-
-</div>
